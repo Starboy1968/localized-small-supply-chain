@@ -4,6 +4,8 @@ Part of [Localized Small Supply Chain: AI Prompts and Workflows](01-overview-and
 
 All examples are **fictional**. No heavy math: averages, "about 1.5 times," and add/subtract only. Every prompt is plain text and works in any AI chat tool. Data is pasted inline as plain text or CSV; file upload is an optional extra.
 
+**See it end to end:** [Worked example 1: cafe stock sheet](use-cases/cafe-weekly-stock.md) (use case 12) and [Worked example 2: retail forecast, overstock and dead stock](use-cases/retail-forecast-overstock-dead-stock.md) (use cases 9-11).
+
 ---
 
 ## 9. Forecast demand in plain words

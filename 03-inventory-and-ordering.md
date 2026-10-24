@@ -4,6 +4,8 @@ Part of [Localized Small Supply Chain: AI Prompts and Workflows](01-overview-and
 
 All examples are **fictional**. The math stays at "add, subtract, multiply." Every prompt is plain text and works in any AI chat tool.
 
+**See it end to end:** [Worked example 1: a small cafe's weekly stock](use-cases/cafe-weekly-stock.md) (use cases 5 and 7).
+
 ---
 
 ## 5. Set par levels

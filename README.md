@@ -10,6 +10,7 @@ For cafes and restaurants, wineries, small retailers, farm stands and market ven
 - [What it is](#what-it-is)
 - [Works with any LLM](#works-with-any-llm)
 - [The 19 use cases](#the-19-use-cases)
+- [Use cases](#use-cases)
 - [Guardrails](#guardrails)
 - [Repo map](#repo-map)
 - [Related projects](#related-projects)
@@ -30,6 +31,15 @@ Every prompt is plain text with labeled **ROLE / CONTEXT / TASK / FORMAT** secti
 | 13-15 | Lead-time log, comparing vendor reliability and variability, planning around lead times (sample CSV) | [05 Supplier lead times for local vendors](05-supplier-lead-times.md) |
 | 16-19 | Single-supplier dependence, disruption playbook, clean master data, local supply map | [06 Risk, disruption and records](06-risk-disruption-and-records.md) |
 
+## Use cases
+Three worked examples, start to finish, with sample CSVs you can paste or upload into any AI chat tool. Each shows the situation, which prompts to use, a sample AI output (labeled illustrative) and a human-check checklist.
+
+- [A small cafe's weekly stock](use-cases/cafe-weekly-stock.md): find run-outs and steady waste in a 4-week stock sheet, then set par levels for next week's order.
+- [A local retailer's forecast, overstock and dead stock](use-cases/retail-forecast-overstock-dead-stock.md): turn 6 months of sales history into an October guess, weeks of cover, and a dead-stock list.
+- [A buyer comparing local vendors](use-cases/vendor-lead-times-reliability.md): rate three vendors on reliability and variability from a delivery log, then set reorder points and holiday plans.
+
+All three: [use-cases/](use-cases/README.md).
+
 ## Guardrails
 AI drafts, humans decide. No customer, payment, staff or patient data in a prompt. Re-check every number in your own sheet. Rules on food safety, alcohol, medical supplies and tax come from official sources, not the AI. Full list: [01 Overview and guardrails](01-overview-and-guardrails.md#guardrails).
 
@@ -43,7 +53,8 @@ AI drafts, humans decide. No customer, payment, staff or patient data in a promp
 | [04-forecasting-overstock-and-dead-stock.md](04-forecasting-overstock-and-dead-stock.md) | Use cases 9-12 |
 | [05-supplier-lead-times.md](05-supplier-lead-times.md) | Use cases 13-15 |
 | [06-risk-disruption-and-records.md](06-risk-disruption-and-records.md) | Use cases 16-19 |
-| [sample-data/](sample-data/) | Fictional CSVs: [cafe weekly stock](sample-data/cafe-weekly-stock.csv), [vendor lead-time log](sample-data/vendor-lead-time-log.csv) |
+| [use-cases/](use-cases/README.md) | Three worked examples: cafe weekly stock, retail forecast and dead stock, vendor lead times |
+| [sample-data/](sample-data/) | Fictional CSVs: [cafe weekly stock](sample-data/cafe-weekly-stock.csv), [vendor lead-time log](sample-data/vendor-lead-time-log.csv), [cafe stock sheet](sample-data/juniper-cafe-stock-sheet.csv), [retail sales history](sample-data/fern-twine-sales-history.csv), [deli delivery log](sample-data/little-pine-deli-delivery-log.csv) |
 | [sources.md](sources.md) | Checked sources and claims to verify |
 
 ## Related projects

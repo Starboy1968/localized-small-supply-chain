@@ -1,0 +1,16 @@
+order_id,vendor,item,order_date,promised_date,received_date,received_in_full
+1,Vendor D,Sandwich bread,2026-09-07,2026-09-08,2026-09-08,yes
+2,Vendor D,Sandwich bread,2026-09-14,2026-09-15,2026-09-15,yes
+3,Vendor D,Sandwich bread,2026-09-21,2026-09-22,2026-09-22,yes
+4,Vendor D,Sandwich bread,2026-09-28,2026-09-29,2026-09-30,yes
+5,Vendor D,Sandwich bread,2026-10-05,2026-10-06,2026-10-06,yes
+6,Vendor E,Sliced cheese,2026-09-07,2026-09-10,2026-09-10,yes
+7,Vendor E,Sliced cheese,2026-09-14,2026-09-17,2026-09-20,no
+8,Vendor E,Sliced cheese,2026-09-21,2026-09-24,2026-09-24,yes
+9,Vendor E,Sliced cheese,2026-09-28,2026-10-01,2026-10-03,no
+10,Vendor E,Sliced cheese,2026-10-05,2026-10-08,2026-10-09,yes
+11,Vendor F,Takeout containers,2026-09-07,2026-09-12,2026-09-11,yes
+12,Vendor F,Takeout containers,2026-09-14,2026-09-19,2026-09-19,yes
+13,Vendor F,Takeout containers,2026-09-21,2026-09-26,2026-09-25,yes
+14,Vendor F,Takeout containers,2026-09-28,2026-10-03,2026-10-07,yes
+15,Vendor F,Takeout containers,2026-10-05,2026-10-10,2026-10-10,yes

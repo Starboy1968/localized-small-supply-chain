@@ -1,0 +1,21 @@
+week,item,unit,start,received,used_or_sold,wasted,end,ran_out,supplier
+W1,Oat milk,carton,2,12,14,0,0,yes,Supplier A
+W2,Oat milk,carton,0,12,12,0,0,yes,Supplier A
+W3,Oat milk,carton,0,12,12,0,0,yes,Supplier A
+W4,Oat milk,carton,0,12,12,0,0,yes,Supplier A
+W1,Whole milk,gallon,3,18,17,1,3,no,Supplier A
+W2,Whole milk,gallon,3,18,18,0,3,no,Supplier A
+W3,Whole milk,gallon,3,18,16,1,2,no,Supplier A
+W4,Whole milk,gallon,2,18,17,1,2,no,Supplier A
+W1,Croissants (frozen),each,20,60,52,8,20,no,Supplier B
+W2,Croissants (frozen),each,20,60,50,9,21,no,Supplier B
+W3,Croissants (frozen),each,21,60,54,7,20,no,Supplier B
+W4,Croissants (frozen),each,20,60,51,8,21,no,Supplier B
+W1,Spinach,lb,1,8,5,3,1,no,Supplier C
+W2,Spinach,lb,1,8,6,2,1,no,Supplier C
+W3,Spinach,lb,1,8,5,3,1,no,Supplier C
+W4,Spinach,lb,1,8,5,3,1,no,Supplier C
+W1,Bagels,dozen,2,10,10,1,1,no,Supplier B
+W2,Bagels,dozen,1,10,11,0,0,yes,Supplier B
+W3,Bagels,dozen,0,10,10,0,0,yes,Supplier B
+W4,Bagels,dozen,0,10,9,1,0,yes,Supplier B

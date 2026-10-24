@@ -2,13 +2,15 @@
 
 Part of [Localized Small Supply Chain: AI Prompts and Workflows](01-overview-and-guardrails.md). Use cases 13-15.
 
-All examples are **fictional**. Vendors are letters (Vendor A, B, C) on purpose. Math stays at "subtract two dates, count, find the longest and shortest." Every prompt is plain text and works in any AI chat tool; data is pasted inline as CSV.
+All examples are **fictional**. Vendors are letters (Vendor A, B, C) on purpose. Math stays at "subtract two dates, count, find the longest and shortest." Every prompt is plain text and works in any AI chat tool; data is pasted inline as CSV, or uploaded as a file if your tool allows it.
 
 **Lead time, in plain words:** the number of days from placing an order to having it in your hands. A vendor's **promised** lead time is what they say; the **actual** lead time is what happens.
 
 **Two things to know about any vendor:**
 - **Reliability:** how often they deliver on or before the promised day.
 - **Variability:** how much their delivery time jumps around. A vendor who always takes 4 days is easier to plan around than one who takes 1 day some weeks and 5 days others.
+
+**See it end to end:** [Worked example 3: comparing local vendors](use-cases/vendor-lead-times-reliability.md) (use cases 14 and 15).
 
 ---
 

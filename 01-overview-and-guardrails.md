@@ -81,6 +81,15 @@ Every prompt in this guide is **model-agnostic**: it works the same way in ChatG
 
 Every use case has the same parts: **the problem** in one line, a **ready-to-copy prompt** with [placeholders], a **workflow** of 3-6 steps, a **worked example** (fictional), and a **check the output** line naming what the AI can't know.
 
+## Worked examples, start to finish
+Three fictional scenarios put the prompts together with sample data. Paste the CSV text into any AI chat tool, or upload the file if your tool allows it.
+
+| Scenario | Sample data | Prompts used |
+|---|---|---|
+| [A small cafe's weekly stock: waste and par levels](use-cases/cafe-weekly-stock.md) | Stock sheet | 12, 7, 5 |
+| [A local retailer's forecast, overstock and dead stock](use-cases/retail-forecast-overstock-dead-stock.md) | Sales history | 9, 10, 11 |
+| [A buyer comparing local vendors' lead times and reliability](use-cases/vendor-lead-times-reliability.md) | Delivery log | 14, 15 |
+
 ## Guardrails
 
 | Risk | What goes wrong | Guardrail |
