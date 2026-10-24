@@ -56,6 +56,7 @@ AI drafts, humans decide. No customer, payment, staff or patient data in a promp
 - [AI in Supply Chain Operations](https://github.com/Starboy1968/ai-in-supply-chain-operations): how a supply chain manager can use AI in six everyday jobs.
 - [Healthcare Cyber Risk Program: An OSINT Case Study](https://github.com/Starboy1968/healthcare-cyber-risk-osint-case-study): a cyber risk program for a fictional health system, from public sources.
 - [Two Suppliers, One Factory](https://github.com/Starboy1968/two-suppliers-one-factory): finding hidden tier-2 single points of failure.
+- [ICM Assistant Workspace](https://github.com/Starboy1968/icm-assistant-workspace): a model-agnostic, five-layer folder workspace that guides any AI chat model through intake, research, drafting and review, with rules for copyright, wellbeing and fairness.
 - Portfolio site: [starboy1968.github.io](https://starboy1968.github.io)
 
 ## Author
