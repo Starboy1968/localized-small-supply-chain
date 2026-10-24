@@ -1,0 +1,16 @@
+week,item,unit,start,received,used_or_sold,wasted,end,ran_out,supplier
+W1,Oat milk,carton,6,12,18,0,0,yes,Supplier A
+W2,Oat milk,carton,0,12,12,0,0,yes,Supplier A
+W3,Oat milk,carton,0,18,17,0,1,no,Supplier A
+W1,Whole milk,gallon,4,20,21,1,2,no,Supplier A
+W2,Whole milk,gallon,2,20,19,1,2,no,Supplier A
+W3,Whole milk,gallon,2,20,20,0,2,no,Supplier A
+W1,Muffin mix,bag,10,6,5,0,11,no,Supplier B
+W2,Muffin mix,bag,11,6,4,0,13,no,Supplier B
+W3,Muffin mix,bag,13,6,5,1,13,no,Supplier B
+W1,Pumpkin syrup,bottle,9,0,1,0,8,no,Supplier B
+W2,Pumpkin syrup,bottle,8,0,0,0,8,no,Supplier B
+W3,Pumpkin syrup,bottle,8,0,0,0,8,no,Supplier B
+W1,Paper cups 12oz,sleeve,10,0,6,0,4,no,Supplier C
+W2,Paper cups 12oz,sleeve,4,10,6,0,8,no,Supplier C
+W3,Paper cups 12oz,sleeve,8,0,6,0,3,no,Supplier C
